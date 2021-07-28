@@ -7,7 +7,7 @@ import { useTable, useSortBy, usePagination } from "react-table";
 import DefaultLayout from "../_layouts/default";
 import api from "../../services/api";
 
-import { Content, Form, SubmitButton, List, TableContainer } from "./styles";
+import { Content, Form, SubmitButton, TableContainer } from "./styles";
 
 function Table({ columns, data }) {
   const { getTableProps, getTableBodyProps, headerGroups, rows, prepareRow } =
