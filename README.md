@@ -16,6 +16,8 @@ Sistema para análise de clientes inadimplentes
 
 ![example2](picture_2.png)
 
+![example3](picture_3.png)
+
 ## Executar
 
 npm i &&
