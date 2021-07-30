@@ -1,24 +1,24 @@
-# Establishment Manager
+# Defaulter Clients
+
+Sistema para análise de clientes inadimplentes
 
 ## Funcionalidades
 
-- Login (autenticação de usuário) com Google
-- Listagem de repositórios
+- Listagem de clientes
 
 ## Tecnologias
 
 - ReactJS
-- Axios
 - Styled Components
-- Context Api
+- React-table
 
-![example1](pic1.png)
+![example1](picture_1.png)
 
-![example2](pic2.png)
+![example2](picture_2.png)
 
-![example3](pic3.png)
+![example3](picture_3.png)
 
 ## Executar
 
 npm i &&
-npm start
+npm run start
